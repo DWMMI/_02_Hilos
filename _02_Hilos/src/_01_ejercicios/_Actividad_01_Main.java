@@ -41,7 +41,7 @@ public class _Actividad_01_Main {
         hilo2.setName("Hilo-2");
 
         _Actividad_01 hilo3 = new _Actividad_01(k);
-        hilo2.setName("Hilo-3");
+        hilo3.setName("Hilo-3");
 
         hilo1.start();
         hilo2.start();
